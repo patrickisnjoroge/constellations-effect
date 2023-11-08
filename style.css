@@ -10,12 +10,3 @@
   top: 0;
   left: 0;
 }
-
-@media (max-width: 600px) {
-  #canvas1 {
-    background: black;
-    position: absolute;
-    top: 0;
-    left: 0;
-  }
-}
